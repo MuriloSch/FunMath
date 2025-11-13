@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Matemática Divertida</string>
+    <string name="counting_game">Contagem</string>
+    <string name="arithmetic_game">Aritmética Básica</string>
+    <string name="largest_number_game">Maior Número</string>
+</resources>
